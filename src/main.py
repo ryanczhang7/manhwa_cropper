@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 
 # We'll assume the ImageCropper class is defined in image_cropper.py
-from image_cropper import ImageCropper
+from src.image_cropper import ImageCropper
 
 def main():
     """
